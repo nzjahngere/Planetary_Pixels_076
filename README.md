@@ -1,2 +1,2 @@
-# ProRepo
-Planetary Pixels 076
+# Planetary Pixels 076
+Project Repository
