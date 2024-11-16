@@ -11,7 +11,7 @@ Thanks :)
 Manual Testing | Automated Testing | Feedback-Based Testing
 
 ## Deployed App
-Manual Testing: Resources are Human
+Manual Testing: Resources are Human.
 Automated Testing: Selenium
 
 ## Technologies Used
